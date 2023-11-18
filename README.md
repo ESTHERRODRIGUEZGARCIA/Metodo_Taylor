@@ -1,4 +1,10 @@
 # Metodo_Taylor
+
+Click [aquí](https://github.com/ESTHERRODRIGUEZGARCIA/Metodo_Taylor.git) para ver el enlace del repositorio.
+
+Trabajo hecho por:
+1. [Esther Rodríguez García](https://github.com/ESTHERRODRIGUEZGARCIA)
+
 Ecuación: y'= (1 + 4*x*y)/(3x^2)
 
 w_100 (Taylor):  -11.470885036199725
